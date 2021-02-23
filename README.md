@@ -16,3 +16,4 @@ Everything's in an issue, along with any preliminary research that may or may no
 | Macropad | 30JAN21 | [macropad](https://github.com/codemicro/macropad) | [#16](https://github.com/codemicro/ideas/issues/16) |
 | **Feb 21** | | | |
 | Pi Pico Eagle CAD library | 01FEB21 | [pico-eagle](https://github.com/codemicro/pico-eagle) | [#16](https://github.com/codemicro/ideas/issues/16) |
+| RSS feed aggregator | 20FEB21 | [rss](https://github.com/codemicro/rss) | [#23](https://github.com/codemicro/ideas/issues/23) |
